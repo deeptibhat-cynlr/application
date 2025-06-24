@@ -32,6 +32,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/DeeptiBhat/OneDrive - CynLr/Desktop/Jenkins_Temp</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{43C985F3-49B3-42F5-A367-7C53DDC800D8}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/DeeptiBhat/OneDrive - CynLr/Desktop/Jenkins_Temp/Application.exe</Property>
@@ -42,7 +43,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/DeeptiBhat/OneDrive - CynLr/Desktop/Jenkins_Temp/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{457C5B95-48EB-4AF3-8FE7-617004D26EF8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{3161BA37-D571-47A2-AEB8-D55068F30114}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/add.vi</Property>
